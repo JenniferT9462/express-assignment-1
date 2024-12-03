@@ -21,6 +21,7 @@ app.post('/data', (req, res) => {
     //Need middleware to return body request back
     const data = req.body;
     res.json(data);
+    // res.type("json")
     // res.send({
     //     "name": "Jennifer",
     //     "message": "Hey, How ya doing?"
