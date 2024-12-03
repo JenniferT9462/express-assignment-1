@@ -16,7 +16,9 @@ This assignment provides hands-on experience with Express, a Node.js framework, 
 
         npm install express
 
-4. Create a file named `server.js`. This is where your routes will go. 
+4. In the `package.json` file add `"type": "module"` to Enable ES Module Syntax (import/export).
+
+5. Create a file named `server.js`. This is where your routes will go. 
 
 ## Server implementation
 
