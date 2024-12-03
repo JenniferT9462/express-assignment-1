@@ -93,3 +93,9 @@ This assignment provides hands-on experience with Express, a Node.js framework, 
     * POST /data should accept and return JSON data.
         - Endpoint:  http://localhost:3000/data
         ![POST data](<dataPostman.png>)
+
+## Acknowledgements
+
+- Express website: <https://expressjs.com/en/starter/hello-world.html>
+- GeeksforGeeks: <https://www.geeksforgeeks.org/express-js-express-json-function/>
+- Javascript Today: <https://javascripttoday.com/blog/model-view-controller-architecture/>
