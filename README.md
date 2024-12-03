@@ -86,7 +86,10 @@ This assignment provides hands-on experience with Express, a Node.js framework, 
 
     * GET / should return "Welcome to the Express server!"
         - Endpoint: http://localhost:3000/
+        ![GET root](<rootPostman.png>)
     * GET /about should return "This is the about page."
         - Endpoint: http://localhost:3000/about
+        ![GET about](<aboutPostman.png>)
     * POST /data should accept and return JSON data.
         - Endpoint:  http://localhost:3000/data
+        ![POST data](<dataPostman.png>)
